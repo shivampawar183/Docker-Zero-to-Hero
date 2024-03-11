@@ -81,7 +81,7 @@ To provide a better picture of files and folders that containers base images hav
     
 ```
 
-It's important to note that while a container uses resources from the host operating system, it is still isolated from the host and other containers, so changes to the container do not affect the host or other containers.
+It's important to note that while a container uses resources from the host operating system, it is still isolated from the host and other containers, so "changes to the container do not affect the host or other containers".
 
 **Note:** There are multiple ways to reduce your VM image size as well, but I am just talking about the default for easy comparision and understanding.
 
